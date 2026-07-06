@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kommidi Vaishnavi👋
 
 <!--
 **vaishnaviikommidi007/vaishnaviikommidi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
