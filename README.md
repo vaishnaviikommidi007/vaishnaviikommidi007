@@ -1,20 +1,6 @@
-## Kommidi Vaishnavi👋
+<!-- Animated Typing -->
 
-<!--
-**vaishnaviikommidi007/vaishnaviikommidi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center"> Kommidi Vaishnavi</h1>
+<h1 align="center">Kommidi Vaishnavi</h1>
 
 <h3 align="center">
 Information Technology Undergraduate <br>
@@ -22,93 +8,131 @@ Chaitanya Bharathi Institute of Technology, Hyderabad
 </h3>
 
 <p align="center">
-🌱 Passionate about Full Stack Development | AI | Problem Solving
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Enthusiast;DSA+Learner;Always+Learning+New+Things" />
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<p align="center">
 
-- 🎓 Information Technology Undergraduate at **Chaitanya Bharathi Institute of Technology, Hyderabad**
-- 💻 Passionate about **Full Stack Web Development** and **Artificial Intelligence**
-- 🌱 Currently learning **AWS**,and **Data Structures & Algorithms**
-- 🚀 Interested in building scalable and impactful real-world applications
-- 💡 Love solving coding problems and exploring new technologies
+<a href="https://github.com/vaishnaviikommidi007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kommidi-vaishnavi-020011331/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kommidivaishnavireddy2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/vaishnavikommidi/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<p align="center">
 
-### 💻 Programming Languages
+<img src="https://komarev.com/ghpvc/?username=vaishnaviikommidi007&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+- 🎓 Information Technology Undergraduate at **CBIT, Hyderabad**
+- 💻 Passionate about **Full Stack Development** and **Artificial Intelligence**
+- 🌱 Currently learning **AWS**, **DSA**, and **Computer Vision**
+- 🚀 Building scalable web applications
+- 💡 Love solving coding problems
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=redux"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
 </p>
 
-### ⚙️ Backend
+### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,vite" />
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=vite"/>
+
 </p>
 
 ### 📚 Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
 
-- ☁️ AWS
-- 📖 Data Structures & Algorithms
-- 👁️ Computer Vision
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| 🍽️ FreshBite | React.js, Node.js, Express.js, MySQL | Full-stack food ordering platform with authentication, Google Maps API, WebSockets, shopping cart, wishlist, and live order tracking. |
-| 👗 AI Fashion Recommendation System | React.js, Node.js, Express.js, MongoDB | AI-powered fashion recommendation platform with Google OAuth, personalized dashboards, hybrid recommendation algorithms, and intelligent search. |
-| 🏥 Hospital Management System | MERN Stack | Hospital management platform with appointment booking, authentication, and patient management. |
-| 🗳️ College Voting System | C++, Stack | Console-based voting system implementing Stack data structure for secure vote management and election result processing.| 
+| 🍽 FreshBite | React • Node • Express • MySQL | Food Ordering Platform |
+| 👗 AI Fashion Recommendation | MERN | AI Recommendation Platform |
+| 🏥 Hospital Management | MERN | Appointment Booking System |
+| 🗳 College Voting System | C++ • Stack | Console-based Voting System |
 
 ---
 
-## 📈 Contribution Graph
+<h3 align="center">
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnaviikommidi007&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p>
-
-<a href="https://github.com/vaishnaviikommidi007">GitHub</a> •
-<a href="https://www.linkedin.com/in/kommidi-vaishnavi-020011331/">LinkedIn</a> •
-<a href="mailto:kommidivaishnavireddy2@gmail.com">Email</a> •
-<a href="https://leetcode.com/u/vaishnavikommidi/">LeetCode</a>
-
-</p>
-
----
-
-<p align="center">
 ✨ Thanks for visiting my profile! ✨
-</p>
+
+</h3>
