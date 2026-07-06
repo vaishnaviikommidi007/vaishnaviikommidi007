@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kommidi Vaishnavi</h1>
+<h1 align="center"> Kommidi Vaishnavi</h1>
 
 <h3 align="center">
 Information Technology Undergraduate <br>
@@ -83,27 +83,6 @@ Chaitanya Bharathi Institute of Technology, Hyderabad
 | 👗 AI Fashion Recommendation System | React.js, Node.js, Express.js, MongoDB | AI-powered fashion recommendation platform with Google OAuth, personalized dashboards, hybrid recommendation algorithms, and intelligent search. |
 | 🏥 Hospital Management System | MERN Stack | Hospital management platform with appointment booking, authentication, and patient management. |
 | 🗳️ College Voting System | C++, Stack | Console-based voting system implementing Stack data structure for secure vote management and election result processing.| 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnaviikommidi007&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviikommidi007&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vaishnaviikommidi007&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -122,9 +101,9 @@ Chaitanya Bharathi Institute of Technology, Hyderabad
 <p>
 
 <a href="https://github.com/vaishnaviikommidi007">GitHub</a> •
-<a href="https://www.linkedin.com/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/kommidi-vaishnavi-020011331/">LinkedIn</a> •
 <a href="mailto:kommidivaishnavireddy2@gmail.com">Email</a> •
-<a href="https://leetcode.com/">LeetCode</a>
+<a href="https://leetcode.com/u/vaishnavikommidi/">LeetCode</a>
 
 </p>
 
