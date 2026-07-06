@@ -17,28 +17,6 @@ Chaitanya Bharathi Institute of Technology, Hyderabad
 
 <p align="center">
 
-<a href="https://github.com/vaishnaviikommidi007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kommidi-vaishnavi-020011331/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kommidivaishnavireddy2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/vaishnavikommidi/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=vaishnaviikommidi007&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
@@ -119,17 +97,72 @@ Chaitanya Bharathi Institute of Technology, Hyderabad
 </p>
 
 ---
-
-# 🚀 Projects
-
+# 🚀 Featured Projects
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| 🍽 FreshBite | React • Node • Express • MySQL | Food Ordering Platform |
-| 👗 AI Fashion Recommendation | MERN | AI Recommendation Platform |
-| 🏥 Hospital Management | MERN | Appointment Booking System |
-| 🗳 College Voting System | C++ • Stack | Console-based Voting System |
+
+### 🍽️ FreshBite — Full-Stack Food Ordering Platform
+
+**Tech Stack:** React.js • Node.js • Express.js • MySQL
+
+- Developed a responsive full-stack food ordering platform connecting home-based food businesses with customers.
+- Implemented secure authentication, RESTful APIs, shopping cart, wishlist, order history, and multiple payment options.
+- Integrated **Google Maps API** for live location tracking and **WebSockets** for real-time order updates.
 
 ---
+
+### 👗 AI-Powered Fashion Recommendation System
+**Tech Stack:** React.js•Node.js•Artifical Inteligence•Machine Learning
+- Building an AI-powered fashion recommendation platform for **Gen Z** and **Gen Alpha** users.
+- Implemented Google OAuth authentication, personalized dashboards, intelligent search, and saved collections.
+- Developing **Content-Based**, **Collaborative**, and **Hybrid Recommendation** algorithms to deliver personalized outfit suggestions.
+
+---
+
+### 🏥 Hospital Management System
+
+**Tech Stack:** MERN Stack
+
+- Built a hospital management application to simplify appointment booking and patient management.
+- Implemented secure authentication with separate roles for patients and administrators.
+- Designed a responsive interface with efficient backend APIs for managing appointments and medical records.
+
+---
+
+### 🗳️ College Voting System
+
+**Tech Stack:** C++ • Stack Data Structure
+
+- Developed a console-based voting application using the **Stack** data structure.
+- Enabled secure vote casting, vote counting, and election result generation.
+- Strengthened understanding of object-oriented programming and data structure implementation.
+
+---
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/vaishnaviikommidi007">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kommidi-vaishnavi-020011331/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:kommidivaishnavireddy2@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/vaishnavikommidi/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! Happy Coding! 🚀 ✨</h3>
 
 <h3 align="center">
 
